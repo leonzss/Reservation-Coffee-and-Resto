@@ -1,4 +1,4 @@
-<p align="center"><img src="asset/codeigniter-logo-svgrepo-com.svg" alt="Open Source Reservation Coffee and Resto" width="auto" height="200"></p>
+<p align="center"><img src="assets/codeigniter-logo-svgrepo-com.svg" alt="Open Source Reservation Coffee and Resto" width="auto" height="200"></p>
 <h3 align="center">Open Source Reservation Coffee and Resto</h3>
 
 ## 👋 Introduction
