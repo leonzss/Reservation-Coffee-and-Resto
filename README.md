@@ -1,4 +1,4 @@
-<p align="center"><img src="asset/codeigniter-logo-svgrepo-com.svg" alt="Open Source Point of Sale Logo" width="auto" height="200"></p>
+<p align="center"><img src="asset/codeigniter-logo-svgrepo-com.svg" alt="Open Source Reservation Coffee and Resto" width="auto" height="200"></p>
 <h3 align="center">Open Source Reservation Coffee and Resto</h3>
 
 ## 👋 Introduction
@@ -22,18 +22,3 @@ Holygrounds Coffee & Community is the first Christian-themed coffeeshop in Indon
 2. Frontend: HTML, CSS, and JavaScript will be used to develop an attractive and responsive user interface.
 3. Database: A database system will be used to store reservation information, table data, and customer data.
 Integration: Integration with notification systems to send notifications to customers about their reservations.
-
-## 🖥️ Screenshoot
-
-#### Login & Dashboard
-<div style="text-align: center;">
-    <ul style="list-style: none; padding: 0;">
-        <li> Login
-            <img src="screenshoot/Login.png"</img> 
-        </li>
-        <br>
-        <li> Dashboard
-            <img src="screenshoot/Dashboard.png"</img>
-        </li>
-    </ul>
-</div>
